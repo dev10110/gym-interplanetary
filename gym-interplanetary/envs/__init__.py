@@ -1,0 +1,2 @@
+from gym_interplanetary.envs.interplanetary_env import InterplanetaryEnv
+from gym_interplanetary.envs.interplanetary_extrahard_env import InterplanetaryExtraHardEnv
